@@ -1,6 +1,6 @@
 {
   "name": "to-typed-array",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "To Typed Array: Convert an Array of Numbers to the Typed Array with the Smallest Memory Footprint",
   "main": "to-typed-array.js",
   "scripts": {
